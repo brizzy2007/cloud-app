@@ -1,9 +1,10 @@
 import React from 'react'
+import Home_Innerpage from '../InnerPages/Home_Innerpage'
 
-function Home() {
+const Home = () =>{
   return (
     <div>
-      
+      <Home_Innerpage />
     </div>
   )
 }
