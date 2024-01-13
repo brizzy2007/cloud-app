@@ -2,8 +2,8 @@ import React from 'react'
 
 function Login() {
   return (
-    <div>
-      
+    <div className='pt-[90vh]'>
+      <h1>Login page</h1>
     </div>
   )
 }

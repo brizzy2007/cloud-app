@@ -2,8 +2,8 @@ import React from 'react'
 
 function Register() {
   return (
-    <div>
-      
+    <div className='pt-[90vh]'>
+      <h1>Register page</h1>
     </div>
   )
 }

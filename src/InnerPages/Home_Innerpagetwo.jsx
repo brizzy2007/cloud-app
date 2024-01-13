@@ -12,16 +12,16 @@ function Home_Innerpagetwo() {
 
         <div className='grid grid-cols-3 px-2 pt-4 text-center gap-4'>
             <div className='border py-8 rounded-xl shadow-2xl'>
-                <p className='text-6xl  font-bold text-indigo-600'>100%</p>
+                <p className='text-3xl lg:text-6xl  font-bold text-indigo-600'>100%</p>
                 <p className='text-gray-400 mt-2 font-bold'>Completion</p>
             </div>
 
             <div className='border py-8 rounded-xl shadow-2xl'>
-                <p className='text-6xl  font-bold text-indigo-600'>24/7</p>
+                <p className='text-3xl lg:text-6xl  font-bold text-indigo-600'>24/7</p>
                 <p className='text-gray-400 mt-2 font-bold'>Delivery</p>
             </div>
             <div className='border py-8 rounded-xl shadow-2xl'>
-                <p className='text-6xl  font-bold text-indigo-600'>100k</p>
+                <p className='text-3xl lg:text-6xl  font-bold text-indigo-600'>100k</p>
                 <p className='text-gray-400 mt-2 font-bold'>Transaction</p>
             </div>
         </div>
